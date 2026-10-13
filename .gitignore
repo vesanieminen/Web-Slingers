@@ -1,0 +1,7 @@
+# Local tooling / editor state
+.opencode/
+.playwright-cli/
+
+# OS cruft
+.DS_Store
+Thumbs.db
