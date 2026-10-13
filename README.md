@@ -7,6 +7,8 @@ throw punches and dash through endless waves of spider-thugs — and face
 Built with [three.js](https://threejs.org/) in a single HTML file. No build
 step, no dependencies to install.
 
+![Web Slingers — spider hero fighting spider-thugs on a night city street](docs/screenshot.png)
+
 ![Web Slingers](https://img.shields.io/badge/three.js-r%2Fmin-d100ff) ![no build step](https://img.shields.io/badge/build-none-brightgreen)
 
 ## Play
